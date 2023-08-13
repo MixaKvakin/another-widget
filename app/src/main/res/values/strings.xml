@@ -251,27 +251,85 @@
     <string name="action_connect">Connect</string>
     <string name="action_disconnect">Disconnect</string>
     <string name="applications_filter_title">Applications</string>
-    <string name="applications_filter_subtitle">Choose which notifications to view</string>
-    <string-array name="morning_greetings" tools:ignore="InconsistentArrays">
-        <item>Good morning!</item>
-        <item>Have a good day!</item>
-        <item>Ready to go?</item>
-        <item>Rise and shine.</item>
-        <item>Don\'t forget your breakfast!</item>
-    </string-array>
-    <string-array name="evening_greetings" tools:ignore="InconsistentArrays">
-        <item>Good evening!</item>
-        <item>How did your day go?</item>
-        <item>Did you have a nice day?</item>
-        <item>After effort comes comfort.</item>
-        <item>Don\'t forget to have dinner!</item>
-    </string-array>
-    <string-array name="night_greetings" tools:ignore="InconsistentArrays">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>Sweet dreams till sunbeams find you!</item>
-        <item>See you tomorrow...</item>
-        <item>Don\'t stay up too late!</item>
+    <string name="applications_filter_subtitle">Choose which notifications to view
+    </string><string-array name="morning_greetings" tools:ignore="InconsistentArrays">
+    <item>Доброе утро!</item>
+    <item>Хорошего дня!</item>
+    <item>Готовы ко дню?</item>
+    <item>С добрым утром!</item>
+    <item>Не забудьте позавтракать!</item>
+    <item>Снилось что нибудь?</item>
+    <item>Удачного и продуктивного дня.</item>
+    <item>Здравствуйте.</item>
+    <item>Свежего утра!</item>
+    <item>Утро доброе!</item>
+    <item>С утра добрым быть!</item>
+    <item>Проснулись с хорошим настроением!</item>
+    <item>Яркое утро!</item>
+    <item>Начнем день правильно!</item>
+    <item>Свежее утречко!</item>
+    <item>Утро начинается!</item>
+    <item>Солнечное утро!</item>
+    <item>Утренний привет!</item>
+    <item>День начался!</item>
+    <item>Доброго ранку!</item>
+    <item>Рассветное приветствие!</item>
+    <item>Утро встало!</item>
+    <item>Добро пожаловать в новый день!</item>
+    <item>Подъем и блеск!</item>
+    <item>Утро началось с тебя!</item>
+</string-array>
+<string-array name="evening_greetings" tools:ignore="InconsistentArrays">
+    <item>Добрый вечер!</item>
+    <item>Как прошел день?</item>
+    <item>У тебя был хороший день?</item>
+    <item>После работы идёт отдых!</item>
+    <item>Не забудь поужинать!</item>
+    <item>Вечер добрый!</item>
+    <item>Вечер в хату!</item>
+    <item>Приятного вечера!</item>
+    <item>Закат уже близко!</item>
+    <item>Вечерний привет!</item>
+    <item>Вечер на пороге!</item>
+    <item>Звездное время!</item>
+    <item>Успокоительный вечер!</item>
+    <item>Время релакса!</item>
+    <item>Ночь приближается!</item>
+    <item>Готовы к отдыху?</item>
+    <item>Время уютных моментов!</item>
+    <item>Сумерки наступают!</item>
+    <item>Вечерний час!</item>
+    <item>Какие планы на завтра?</item>
+    <item>Что особенного произошло сегодня?</item>
+    <item>Уже включили релаксирующую музыку?</item>
+    <item>С каким настроением ждёте ночи?</item>
+    <item>Чем хотите заняться перед сном?</item>
+    <item>Какой фильм смотрели сегодня?</item>
+    <item>Что прочитали интересного?</item>
+    <item>Какой урок дал вам этот день?</item>
+    <item>Чему вы сегодня научились?</item>
+</string-array>
+<string-array name="night_greetings" tools:ignore="InconsistentArrays">
+    <item>Спокойной ночи!</item>
+    <item>Добрых снов!</item>
+    <item>Сладкий снов!</item>
+    <item>Увидимся завтра!</item>
+    <item>Не засиживайся допоздна!</item>
+    <item>Доброй ночи!</item>
+    <item>Приятных снов!</item>
+    <item>Закрытие главы дня!</item>
+    <item>Ночь качает в объятиях!</item>
+    <item>Тихие часы начинаются!</item>
+    <item>Время снов и отдыха!</item>
+    <item>Под покровом темноты!</item>
+    <item>Звёздное небо над вами!</item>
+    <item>Ночная гармония!</item>
+    <item>Мирный отдых!</item>
+    <item>Лунные мелодии!</item>
+    <item>Сонная магия!</item>
+    <item>Забудьте заботы, идет ночь!</item>
+    <item>Ночные объятия!</item>
+
     </string-array>
     <string name="glance_notification_hide_timeout_title">Hide the notification after</string>
     <string-array name="glance_notifications_timeout">
